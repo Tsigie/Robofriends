@@ -1,0 +1,19 @@
+{
+  "name": "robofriends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsigie/Robofriends.git"
+  },
+  "author": "Tsigie Kumssa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tsigie/Robofriends/issues"
+  },
+  "homepage": "https://github.com/Tsigie/Robofriends#readme"
+}
